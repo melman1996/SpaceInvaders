@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Alien">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACECAAAAACAAAIAAAAAAAAAAAAAAABAAAAAACE=</HashCode>
+      <FileName>Alien.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Alien1">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAEAAAAAAABAAIAAAAAAAAAAAAQAAAAAAAAAAE=</HashCode>
+      <FileName>Alien1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buffer">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAQAAAAIQQAA=</HashCode>
+      <FileName>Buffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACACAAAAAAAAAAAAAAAgAAAAAAEAgAAAAAQAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInstance">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACABAEBAAAACAAEAAAABQAAAAAAAQAAAgABAI=</HashCode>
+      <FileName>GameInstance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAACAAAAAQAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShip">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACkCAACAQABAAAIAAAAAAEAAAIAAABgBAEAQCE=</HashCode>
+      <FileName>SpaceShip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
